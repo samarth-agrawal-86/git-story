@@ -1,2 +1,5 @@
 .DS_Store
 secrets.txt
+
+# to add a comment
+# * is a wild card. *.txt means all .txt files will be ignored
